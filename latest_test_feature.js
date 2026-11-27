@@ -11,20 +11,37 @@ chromium.use(stealth);
 
 // ==================== CONFIGURATION ====================
 const PLACES = [
-    'चित्तौरा (Chittaura)   271801',
-    'रिसिया (Risia) 271875',
-    'तेजवापुर (Tejwapur)    271825',
-    'विशेश्वरगंज (Visheshwarganj)   271821',
-    'हुजूरपुर (Huzoorpur)   271872',
-    'कैसरगंज (Kaisarganj)   271903',
-    'जरवल (Jarwal)  271901',
-    // 'फखरपुर (Phakharpur) 271902',
-    // 'महसी (Mahasi)   271824',
-    // 'शिवपुर (Shivpur)    271830',
-    // 'बलहा (Balaha)   271865',
-    // 'नवाबगंज (Nawabganj) 271881',
-    // 'मिहींपुरवा (Mihinpurwa) 271855'
+    'Bahraich   271801',
+    'Nanpara   271865',
+    'Kaiserganj   271903',
+    'Mahasi   271824',
+    'Payagpur   271871',
+    'Motipur / Mihinpurwa   271855',
+    'Chittaura   271801',
+    'Risia   271875',
+    'Visheshwarganj   271821',
+    'Huzoorpur   271872',
+    'Jarwal / Jarwal Road   271904',
+    'Fakharpur   271902',
+    'Tejwapur   271825',
+    'Balha   271865',
+    'Nawabganj   271881',
+    'Shivpur   271830',
+    'Rupaidiha   271881',
+    'Chilwaria   271870',
+    'Khutehna   271806',
+    'Baundi   271902',
+    'Hardi   271825',
+    'Matera   271851',
+    'Babaganj   271881',
+    'Charda   271881',
+    'Sujauli   271841',
+    'Bichhiya   271841',
+    'Semari   271855',
+    'Urra   271855',
+    'Gangwal   271821',
 ];
+
 
 const state = 'Uttar Pradesh'; 
 const district = 'Bahraich';       
